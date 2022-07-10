@@ -1,5 +1,3 @@
-Cornell-SQL-Example-1
-
 Here is a SQL Query I created while completing the Data Science SQL and Tableau Certificate through Cornell University in August of 2022.
 
 The question asked us to identify XYZ. It focused on testing our ability to create both Inner Joins and Correlated Subqueries.
