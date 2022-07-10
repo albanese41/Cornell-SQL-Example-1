@@ -13,4 +13,3 @@ FROM Registrations
 INNER JOIN Results
 ON Registrations.registration_id = Results.registration_id
 WHERE Registrations.race_name = B.race_name);
-
