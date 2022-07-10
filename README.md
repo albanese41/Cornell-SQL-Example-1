@@ -2,6 +2,7 @@
 
 Here are several of the SQL Queries I created completing the Data Science SQL and Tableau Certificate through Cornell University in August of 2022.
 
+
 Query #1: This question asked us to identify XYZ. It focused on testing our ability to create both Inner Joins and Correlated Subqueries.
 
 SELECT A.first_name, A.last_name, B.race_name, C.race_position
@@ -25,5 +26,6 @@ INNER JOIN Results
 ON Registrations.registration_id = Results.registration_id
 
 WHERE Registrations.race_name = B.race_name);
+
 
 Question #2:.....
