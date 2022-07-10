@@ -1,4 +1,4 @@
-# Cornell-SQL-Examples
+# Cornell-SQL-Example-1
 
 Here are several of the SQL Queries I created completing the Data Science SQL and Tableau Certificate through Cornell University in August of 2022.
 
