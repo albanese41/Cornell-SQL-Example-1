@@ -1,6 +1,6 @@
-# Cornell-SQl-Examples
+# Cornell-SQL-Examples
 
-Here are several of the SQl Queries I created completing the Data Science SQL and Tableau Certificate through Cornell University.
+Here are several of the SQL Queries I created completing the Data Science SQL and Tableau Certificate through Cornell University in August of 2022.
 
 SELECT A.first_name, A.last_name, B.race_name, C.race_position
 FROM Runners AS A
