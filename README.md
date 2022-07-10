@@ -1,7 +1,3 @@
-Here is a SQL Query I created while completing the Data Science SQL and Tableau Certificate through Cornell University in August of 2022.
-
-The question asked us to identify XYZ. It focused on testing our ability to create both Inner Joins and Correlated Subqueries.
-
 SELECT A.first_name, A.last_name, B.race_name, C.race_position
 
 FROM Runners AS A
